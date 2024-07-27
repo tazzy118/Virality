@@ -1,0 +1,49 @@
+C:\Users\tasni\OneDrive\Desktop\C# Work\Virality\Virality\bin\Debug\net6.0-windows\Virality.exe
+C:\Users\tasni\OneDrive\Desktop\C# Work\Virality\Virality\bin\Debug\net6.0-windows\Virality.deps.json
+C:\Users\tasni\OneDrive\Desktop\C# Work\Virality\Virality\bin\Debug\net6.0-windows\Virality.runtimeconfig.json
+C:\Users\tasni\OneDrive\Desktop\C# Work\Virality\Virality\bin\Debug\net6.0-windows\Virality.dll
+C:\Users\tasni\OneDrive\Desktop\C# Work\Virality\Virality\bin\Debug\net6.0-windows\Virality.pdb
+C:\Users\tasni\OneDrive\Desktop\C# Work\Virality\Virality\obj\Debug\net6.0-windows\Virality.csproj.AssemblyReference.cache
+C:\Users\tasni\OneDrive\Desktop\C# Work\Virality\Virality\obj\Debug\net6.0-windows\Virality.Form1.resources
+C:\Users\tasni\OneDrive\Desktop\C# Work\Virality\Virality\obj\Debug\net6.0-windows\Virality.csproj.GenerateResource.cache
+C:\Users\tasni\OneDrive\Desktop\C# Work\Virality\Virality\obj\Debug\net6.0-windows\Virality.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tasni\OneDrive\Desktop\C# Work\Virality\Virality\obj\Debug\net6.0-windows\Virality.AssemblyInfoInputs.cache
+C:\Users\tasni\OneDrive\Desktop\C# Work\Virality\Virality\obj\Debug\net6.0-windows\Virality.AssemblyInfo.cs
+C:\Users\tasni\OneDrive\Desktop\C# Work\Virality\Virality\obj\Debug\net6.0-windows\Virality.csproj.CoreCompileInputs.cache
+C:\Users\tasni\OneDrive\Desktop\C# Work\Virality\Virality\obj\Debug\net6.0-windows\Virality.dll
+C:\Users\tasni\OneDrive\Desktop\C# Work\Virality\Virality\obj\Debug\net6.0-windows\refint\Virality.dll
+C:\Users\tasni\OneDrive\Desktop\C# Work\Virality\Virality\obj\Debug\net6.0-windows\Virality.pdb
+C:\Users\tasni\OneDrive\Desktop\C# Work\Virality\Virality\obj\Debug\net6.0-windows\Virality.genruntimeconfig.cache
+C:\Users\tasni\OneDrive\Desktop\C# Work\Virality\Virality\obj\Debug\net6.0-windows\ref\Virality.dll
+C:\Users\tasni\OneDrive\Desktop\C# Work\Virality\Virality\obj\Debug\net6.0-windows\Virality.frmMain.resources
+C:\Users\tasni\OneDrive\Desktop\C# Work\Virality\Virality\obj\Debug\net6.0-windows\Virality.Properties.Resources.resources
+C:\Users\tasni\OneDrive\Desktop\C# Work\Virality\Virality\obj\Debug\net6.0-windows\Virality.frmFeedNew.resources
+C:\Users\tasni\OneDrive\Desktop\C# Work\Virality\Virality\obj\Debug\net6.0-windows\Virality.frmHelpteam.resources
+C:\Users\tasni\OneDrive\Desktop\C# Work\Virality\Virality\obj\Debug\net6.0-windows\Virality.frmMessages.resources
+C:\Users\tasni\OneDrive\Desktop\C# Work\Virality\Virality\obj\Debug\net6.0-windows\Virality.frmSettings.resources
+C:\Users\tasni\OneDrive\Desktop\C# Work\Virality\Virality\obj\Debug\net6.0-windows\Virality.frmProfile.resources
+C:\Users\tasni\OneDrive\Desktop\C# Work\Virality admin\Virality\bin\Debug\net6.0-windows\Virality.exe
+C:\Users\tasni\OneDrive\Desktop\C# Work\Virality admin\Virality\bin\Debug\net6.0-windows\Virality.deps.json
+C:\Users\tasni\OneDrive\Desktop\C# Work\Virality admin\Virality\bin\Debug\net6.0-windows\Virality.runtimeconfig.json
+C:\Users\tasni\OneDrive\Desktop\C# Work\Virality admin\Virality\bin\Debug\net6.0-windows\Virality.dll
+C:\Users\tasni\OneDrive\Desktop\C# Work\Virality admin\Virality\bin\Debug\net6.0-windows\Virality.pdb
+C:\Users\tasni\OneDrive\Desktop\C# Work\Virality admin\Virality\obj\Debug\net6.0-windows\Virality.csproj.AssemblyReference.cache
+C:\Users\tasni\OneDrive\Desktop\C# Work\Virality admin\Virality\obj\Debug\net6.0-windows\Virality.Form1.resources
+C:\Users\tasni\OneDrive\Desktop\C# Work\Virality admin\Virality\obj\Debug\net6.0-windows\Virality.frmMain.resources
+C:\Users\tasni\OneDrive\Desktop\C# Work\Virality admin\Virality\obj\Debug\net6.0-windows\Virality.frmFeedNew.resources
+C:\Users\tasni\OneDrive\Desktop\C# Work\Virality admin\Virality\obj\Debug\net6.0-windows\Virality.frmHelpteam.resources
+C:\Users\tasni\OneDrive\Desktop\C# Work\Virality admin\Virality\obj\Debug\net6.0-windows\Virality.frmMessages.resources
+C:\Users\tasni\OneDrive\Desktop\C# Work\Virality admin\Virality\obj\Debug\net6.0-windows\Virality.frmProfile.resources
+C:\Users\tasni\OneDrive\Desktop\C# Work\Virality admin\Virality\obj\Debug\net6.0-windows\Virality.frmSettings.resources
+C:\Users\tasni\OneDrive\Desktop\C# Work\Virality admin\Virality\obj\Debug\net6.0-windows\Virality.Properties.Resources.resources
+C:\Users\tasni\OneDrive\Desktop\C# Work\Virality admin\Virality\obj\Debug\net6.0-windows\Virality.csproj.GenerateResource.cache
+C:\Users\tasni\OneDrive\Desktop\C# Work\Virality admin\Virality\obj\Debug\net6.0-windows\Virality.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tasni\OneDrive\Desktop\C# Work\Virality admin\Virality\obj\Debug\net6.0-windows\Virality.AssemblyInfoInputs.cache
+C:\Users\tasni\OneDrive\Desktop\C# Work\Virality admin\Virality\obj\Debug\net6.0-windows\Virality.AssemblyInfo.cs
+C:\Users\tasni\OneDrive\Desktop\C# Work\Virality admin\Virality\obj\Debug\net6.0-windows\Virality.csproj.CoreCompileInputs.cache
+C:\Users\tasni\OneDrive\Desktop\C# Work\Virality admin\Virality\obj\Debug\net6.0-windows\Virality.dll
+C:\Users\tasni\OneDrive\Desktop\C# Work\Virality admin\Virality\obj\Debug\net6.0-windows\refint\Virality.dll
+C:\Users\tasni\OneDrive\Desktop\C# Work\Virality admin\Virality\obj\Debug\net6.0-windows\Virality.pdb
+C:\Users\tasni\OneDrive\Desktop\C# Work\Virality admin\Virality\obj\Debug\net6.0-windows\Virality.genruntimeconfig.cache
+C:\Users\tasni\OneDrive\Desktop\C# Work\Virality admin\Virality\obj\Debug\net6.0-windows\ref\Virality.dll
+C:\Users\tasni\OneDrive\Desktop\C# Work\Virality admin\Virality\obj\Debug\net6.0-windows\Virality.frmSignup.resources
